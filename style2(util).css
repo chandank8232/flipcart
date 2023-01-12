@@ -1,0 +1,48 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 5px 10px;
+    color: white;
+    background: #005cf1;
+    border: 1px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.ss {
+    color: black;
+    background-color: white;
+    border-radius: 160px;
+    padding: 7px 7px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+    
+}
+
+.sst{
+    display: flex;
+    float: right;
+    /* align-items: flex-end; */
+    align-content: right;
+    justify-content: right;
+    
+    
+}
+
+.my-1 {
+    margin: 5px 0;
+}
+
+.my-2 {
+    margin: 26px 0;
+}
+
+.text-center {
+    text-align: center;
+}
